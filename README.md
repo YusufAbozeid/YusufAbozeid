@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YusufAbozeid/YusufAbozeid/main/header.svg" width="100%" alt="Yusuf Adel Abouzeid" />
+# ⚡ Yusuf Adel Abouzeid
+### 🚀 AI & Embedded Systems Engineer | NLP, LLM & Edge AI Specialist
+**National AI Hackathon Champion (1st Place) 🥇 &nbsp;•&nbsp; RoboDam 2026 Top 6 National Finalist 🏆**
 
 <p align="center">
   <a href="https://yusufabozeid.github.io/Yusuf-portfolio/">
