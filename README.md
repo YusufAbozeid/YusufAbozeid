@@ -1,7 +1,7 @@
 <!-- ══════════════════════════ HEADER ══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7C3AED,100:00F0FF&height=230&section=header&text=Yusuf%20Adel%20Abouzeid&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%26%20Embedded%20Systems%20Engineer&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Yusuf Adel Abouzeid" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7C3AED,100:00F0FF&height=235&section=header&text=Yusuf%20Adel%20Abouzeid&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%26%20Embedded%20Systems%20Engineer&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Yusuf Adel Abouzeid" />
 
 <a href="https://yusufabozeid.github.io/Yusuf-portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=AI+%26+Embedded+Systems+Engineer;ESP32+%2B+PyTorch+%2B+RAG+%2B+Transformers+%2B+SCADA;National+AI+Hackathon+Champion+%F0%9F%A5%87;RoboDam+2026+Top+6+Finalist+%F0%9F%8F%86;From+Silicon+to+Neural+Networks+%E2%9A%A1;Silicon+%E2%86%92+Firmware+%E2%86%92+Model+%E2%86%92+API+%E2%86%92+Deploy" alt="Roles" />
