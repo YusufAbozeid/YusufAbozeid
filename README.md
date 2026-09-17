@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,30:00C7B7,70:7C3AED,100:00F0FF&height=220&section=header&text=Yusuf%20Adel%20Abouzeid&fontSize=52&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" alt="Yusuf Adel Abouzeid" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=130&section=header&text=Yusuf%20Adel%20Abouzeid&fontSize=50&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%" alt="Yusuf Adel Abouzeid" />
 <!-- Cyber-Terminal Status Bar -->
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=080B12" alt="System Online" />
