@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,50:00c7b7,100:080b12&height=180&section=header&text=Yusuf%20Adel%20Abouzeid&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20Embedded%20Systems%20Engineer%20%7C%20NLP%2C%20LLM%20%26%20Edge%20AI%20Specialist&descFontSize=18&descColor=00c7b7&descAlignY=70" width="100%"/>
+<img src="https://raw.githubusercontent.com/YusufAbozeid/YusufAbozeid/main/header.svg" width="100%" alt="Yusuf Adel Abouzeid" />
 
 <p align="center">
   <a href="https://yusufabozeid.github.io/Yusuf-portfolio/">

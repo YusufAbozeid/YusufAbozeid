@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="100%" height="140">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080b12"/>
+      <stop offset="50%" stop-color="#0d1728"/>
+      <stop offset="100%" stop-color="#080b12"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="70%" stop-color="#f0f6fc"/>
+      <stop offset="100%" stop-color="#00c7b7"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c7b7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00c7b7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00c7b7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Card Background -->
+  <rect x="2" y="2" width="796" height="136" rx="16" fill="url(#bgGrad)" stroke="#00c7b7" stroke-width="1.5" stroke-opacity="0.35"/>
+  <!-- Subtle accent line -->
+  <line x1="150" y1="120" x2="650" y2="120" stroke="url(#lineGrad)" stroke-width="1.5"/>
+  <!-- Name -->
+  <text x="50%" y="62" text-anchor="middle" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" letter-spacing="-0.5">Yusuf Adel Abouzeid</text>
+  <!-- Subtitle -->
+  <text x="50%" y="98" text-anchor="middle" fill="#00c7b7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="0.5">AI &amp; Embedded Systems Engineer &bull; NLP, LLM &amp; Edge AI Specialist</text>
+</svg>
