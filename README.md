@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0E,35:1A1810,70:D4AF37,100:FFD700&height=220&section=header&text=Yusuf%20Adel%20Abouzeid&fontSize=52&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" alt="Yusuf Adel Abouzeid" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,30:008B8B,70:00C7B7,100:00F0FF&height=220&section=header&text=Yusuf%20Adel%20Abouzeid&fontSize=52&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" alt="Yusuf Adel Abouzeid" />
 <!-- Cyber-Terminal Status Bar -->
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=080B12" alt="System Online" />
@@ -11,7 +11,7 @@
 
 <!-- Animated Glowing Cyberpunk Typing Header -->
 <a href="https://yusufabozeid.github.io/Yusuf-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=FFD700&center=true&vCenter=true&width=850&lines=%E2%9A%A1+YUSUF+ADEL+ABOUZEID;%F0%9F%A7%A0+AI+%26+Embedded+Systems+Engineer;%F0%9F%A5%87+National+AI+Hackathon+Champion;%F0%9F%8F%86+RoboDam+2026+Top+6+National+Finalist;%F0%9F%94%8C+From+Bare+Silicon+to+Neural+Networks;%F0%9F%A4%96+ESP-NOW+Mesh+%C2%B7+RAG+%C2%B7+Transformers+%C2%B7+Edge+AI" alt="Yusuf Adel Abouzeid" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=00F0FF&center=true&vCenter=true&width=850&lines=%E2%9A%A1+YUSUF+ADEL+ABOUZEID;%F0%9F%A7%A0+AI+%26+Embedded+Systems+Engineer;%F0%9F%A5%87+National+AI+Hackathon+Champion;%F0%9F%8F%86+RoboDam+2026+Top+6+National+Finalist;%F0%9F%94%8C+From+Bare+Silicon+to+Neural+Networks;%F0%9F%A4%96+ESP-NOW+Mesh+%C2%B7+RAG+%C2%B7+Transformers+%C2%B7+Edge+AI" alt="Yusuf Adel Abouzeid" />
 </a>
 
 <p align="center">
@@ -205,5 +205,10 @@
 <br/><br/>
 
 <sub>© 2026 Yusuf Adel Abouzeid — Engineered for Real-World Resilience 🚀</sub>
+
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,30:00C7B7,70:008B8B,100:080B12&height=140&section=footer&reversal=true&animation=fadeIn" width="100%" alt="" />
 
 </div>
