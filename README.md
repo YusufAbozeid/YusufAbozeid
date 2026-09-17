@@ -130,15 +130,6 @@ High-impact **AI & Embedded Systems Engineer** specializing in **Natural Languag
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufAbozeid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080b12&title_color=00c7b7&icon_color=00c7b7&text_color=c9d1d9" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAbozeid&layout=compact&theme=tokyonight&hide_border=true&bg_color=080b12&title_color=00c7b7&text_color=c9d1d9" height="150" />
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect!
